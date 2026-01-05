@@ -106,15 +106,15 @@ export function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <Phone className="mt-0.5 h-4 w-4 text-primary" />
-                <span className="text-muted-foreground">+91 1800-123-4567</span>
+                <span className="text-muted-foreground">+91 9508178521</span>
               </li>
               <li className="flex items-start gap-2">
                 <Mail className="mt-0.5 h-4 w-4 text-primary" />
-                <span className="text-muted-foreground">support@lovemedix.com</span>
+                <span className="text-muted-foreground">lovemedixpharmapvtltd@gmail.com</span>
               </li>
               <li className="flex items-start gap-2">
                 <MapPin className="mt-0.5 h-4 w-4 text-primary" />
-                <span className="text-muted-foreground">Mumbai, Maharashtra, India</span>
+                <span className="text-muted-foreground">Silao, Nalanda, Bihar</span>
               </li>
             </ul>
           </div>
